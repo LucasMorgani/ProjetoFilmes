@@ -1,0 +1,47 @@
+@font-face {
+    font-family: Allen;
+    src: url(windsor_light_condensed.ttf);
+}
+body{
+    height: 100%;
+    background-image: linear-gradient(to top, black, rgb(20, 20, 20));
+}
+
+.Main_Title{
+    font-size: 50px;
+    text-align: center;
+}
+
+.Second_Title{
+    font-size: 30px;
+    text-align: center;
+}
+
+.Paragraph{
+    color:  rgb(104, 104, 2);
+    font-size: 20px;
+}
+
+.ColorRed{
+    color: red;
+}
+
+.ColorWhite{
+    color: antiquewhite;
+}
+
+h1{
+    font-family: Allen;
+}
+
+h2{
+    font-family: Allen;
+}
+
+p{
+    font-family: Allen;
+}
+
+.Center{
+    text-align: center;
+}
